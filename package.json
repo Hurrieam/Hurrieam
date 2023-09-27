@@ -1,0 +1,23 @@
+{
+  "name": "hurrieam",
+  "version": "1.0.0",
+  "description": "<!--\r **Hurrieam/Hurrieam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i && npx tsc && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hurrieam/Hurrieam.git"
+  },
+  "author": "hurrieam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hurrieam/Hurrieam/issues"
+  },
+  "homepage": "https://github.com/Hurrieam/Hurrieam#readme",
+  "dependencies": {
+    "@types/jquery": "^3.5.19",
+    "typescript": "^5.2.2"
+  }
+}
