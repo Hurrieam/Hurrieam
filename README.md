@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Hurrieam, I love coding!!! 
-
-It's almost enough! 
+Hurrieam, an infamous music producer. 
